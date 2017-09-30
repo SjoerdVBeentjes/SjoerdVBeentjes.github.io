@@ -6,45 +6,59 @@
     <description>Recent content in Sjoerd Beentjes on Sjoerd Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Sjoerd Beentjes</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>https://SjoerdVBeentjes.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>The crepant resolution conjecture for Donaldson-Thomas invariants</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkoxford/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/talk/example-talk/</guid>
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkoxford/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://SjoerdVBeentjes.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Crepant resolutions &amp; Donaldson-Thomas invariants</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talktehran/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://SjoerdVBeentjes.github.io/talk/talktehran/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://SjoerdVBeentjes.github.io/project/example-external-project/</link>
+      <title>Crepant resolutions &amp; Donaldson-Thomas invariants</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkcardiff/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkcardiff/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crepant resolution conjecture for Donaldson-Thomas invariants</title>
+      <link>https://SjoerdVBeentjes.github.io/project/crc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/project/example-external-project/</guid>
-      <description></description>
+      <guid>https://SjoerdVBeentjes.github.io/project/crc/</guid>
+      <description>&lt;p&gt;The crepant resolution conjecture for Donaldson-Thomas invariants is a statement about the enumerative geometry of two related geometries. It relates the Donaldson-Thomas generating series of a certain type of threedimensional Calabi-Yau orbifold $\mathcal{X}$ to that of a particular crepant resolution $Y$ of its coarse moduli space $X$.&lt;/p&gt;
+
+&lt;p&gt;Here is a nice &lt;a href=&#34;https://SjoerdVBeentjes.github.io/files/PosterBrAG.pdf&#34;/&gt;poster&lt;/a&gt;
+ I made about this conjecture for the British Algebraic Geometry (BrAG) conference held in Cambridge, from 11 to 13 September 2017. It contains two results:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The example shows that analytic continuation of the generating series is required for the conjecture to hold. This seems to be a new phenomenon in the DT-world.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;I have proven a nice formula in a motivic Hall algebra relating the Hilbert scheme of curves on the resolution to the Hilbert scheme of curves on the orbifold.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;At the moment, I am thinking about ways to turn this formula into a proof of the conjecture.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,14 +74,15 @@
 &lt;p&gt;Key features:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
-&lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://SjoerdVBeentjes.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Need a different section? Just use the Custom widget!&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://SjoerdVBeentjes.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -145,13 +160,14 @@ cd my_website
 &lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;/li&gt;
-&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;/li&gt;
-&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;/li&gt;
-&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Alternatively, you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature.&lt;/li&gt;
-&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Alternatively, you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
@@ -281,16 +297,17 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;About/biography&lt;/li&gt;
-&lt;li&gt;Selected publications&lt;/li&gt;
-&lt;li&gt;Recent publications&lt;/li&gt;
-&lt;li&gt;Recent news/blog posts&lt;/li&gt;
-&lt;li&gt;Projects&lt;/li&gt;
-&lt;li&gt;Selected talks&lt;/li&gt;
-&lt;li&gt;Recent talks&lt;/li&gt;
-&lt;li&gt;Contact&lt;/li&gt;
-&lt;li&gt;Tag cloud&lt;/li&gt;
-&lt;li&gt;Custom widget (demonstrated with the &lt;em&gt;teaching&lt;/em&gt; example)&lt;/li&gt;
+&lt;li&gt;About/biography&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Selected publications&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Recent publications&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Recent news/blog posts&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Projects&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Selected talks&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Recent talks&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Contact&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Tag cloud&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Custom widget (demonstrated with the &lt;em&gt;teaching&lt;/em&gt; example)&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.&lt;/p&gt;
@@ -902,7 +919,7 @@ Here&#39;s some important information...
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Footnote example.
+&lt;li id=&#34;fn:1&#34;&gt;Footnote example.&lt;br /&gt;
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
@@ -930,7 +947,7 @@ Here&#39;s some important information...
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
+&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&lt;br /&gt;
 With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/

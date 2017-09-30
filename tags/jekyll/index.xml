@@ -6,7 +6,7 @@
     <description>Recent content in Jekyll on Sjoerd Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Sjoerd Beentjes</copyright>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/jekyll/" rel="self" type="application/rss+xml" />
     
@@ -22,7 +22,7 @@
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
+&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&lt;br /&gt;
 With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
