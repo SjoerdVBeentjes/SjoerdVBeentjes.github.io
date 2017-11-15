@@ -57,7 +57,7 @@
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;At the moment, I am thinking about ways to turn this formula into a proof of the conjecture.&lt;/p&gt;
+&lt;p&gt;At the moment, &lt;a href=&#34;https://folk.uio.no/jorgeren/&#34; target=&#34;_blank&#34;&gt;Jørgen Rennemo&lt;/a&gt;, &lt;a href=&#34;http://math.rice.edu/~jrc9/&#34; target=&#34;_blank&#34;&gt;John Calabrese&lt;/a&gt; and I have joined forces to complete the proof of the conjecture. It turns out the underlying statement is an equality of rational functions, after a change of variables. The conjecture follows by expanding this rational function about different points. This requires some clever use of wallcrossing in the Hall algebra.&lt;/p&gt;
 </description>
     </item>
     
