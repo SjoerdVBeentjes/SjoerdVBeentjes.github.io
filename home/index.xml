@@ -6,9 +6,58 @@
     <description>Recent content in Homes on Sjoerd Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2018 Sjoerd Beentjes</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://SjoerdVBeentjes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://SjoerdVBeentjes.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/about/</guid>
+      <description>About me I am a postdoctoral fellow working with Ben Davison at the University of Edinburgh. Before this, I was a PhD student in algebraic geometry at the University of Edinburgh, working under the supervision of Arend Bayer.
+My research is in algebraic geometry, in particular applications of the theory of stability conditions and derived categories to the enumerative geometry of curves on Calabi-Yau threefolds, such as Donaldson-Thomas, Pandharipande-Thomas, and BPS invariants.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://SjoerdVBeentjes.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://SjoerdVBeentjes.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://SjoerdVBeentjes.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/teaching/</guid>
+      <description>During my time at the University of Amsterdam, I was a teaching assistent for various courses such as Calculus, Linear Algebra, Topology, Analysis on Manifolds, and Statistical Physics. This involved some blackboard teaching and occasionally creating exercises for students.
+At the University of Edinburgh the teaching assistant has a more supportive role, and I have TA&amp;rsquo;d for courses such as Calculus, Introduction to Linear Algebra, Commutative Algebra, and Algebraic Geometry.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://SjoerdVBeentjes.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
