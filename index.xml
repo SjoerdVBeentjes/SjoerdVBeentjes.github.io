@@ -11,22 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
-      <link>https://SjoerdVBeentjes.github.io/publication/crc/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Virtual counts on Quot schemes and the higher rank local DT/PT correspondence</title>
+      <link>https://SjoerdVBeentjes.github.io/publication/virtual_quot/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/publication/crc/</guid>
+      <guid>https://SjoerdVBeentjes.github.io/publication/virtual_quot/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
  --&gt;
 </description>
     </item>
     
     <item>
-      <title>Virtual counts on Quot schemes and the higher rank local DT/PT correspondence</title>
-      <link>https://SjoerdVBeentjes.github.io/publication/virtual_quot/</link>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/publication/crc/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/publication/virtual_quot/</guid>
+      <guid>https://SjoerdVBeentjes.github.io/publication/crc/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
  --&gt;
 </description>
