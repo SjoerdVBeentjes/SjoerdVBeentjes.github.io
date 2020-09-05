@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Sjoerd Beentjes</title>
+    <title>Homes on Sjoerd Viktor Beentjes</title>
     <link>https://SjoerdVBeentjes.github.io/home/</link>
-    <description>Recent content in Homes on Sjoerd Beentjes</description>
+    <description>Recent content in Homes on Sjoerd Viktor Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2020 Sjoerd Beentjes</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://SjoerdVBeentjes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,12 +18,12 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SjoerdVBeentjes.github.io/home/about/</guid>
-      <description>About me I am a postdoctoral fellow working with Ben Davison at the University of Edinburgh. Before this, I was a PhD student in algebraic geometry at the University of Edinburgh, working under the supervision of Arend Bayer.
-My research is in algebraic geometry, in particular applications of the theory of stability conditions and derived categories to the enumerative geometry of curves on Calabi-Yau threefolds, such as Donaldson-Thomas, Pandharipande-Thomas, and BPS invariants.</description>
+      <description>About me Welcome to my homepage! I am a mathematican based in Edinburgh, UK.
+I am a postdoctoral fellow working with Ben Davison at the University of Edinburgh. During the academic year 2019-2020, I was on leave from Edinburgh working with Georg Oberdieck at the Haussdorff Center for Mathematics of Universität Bonn. Before this, I completed my PhD in algebraic geometry at the University of Edinburgh, working under the supervision of Arend Bayer.</description>
     </item>
     
     <item>
-      <title>Papers</title>
+      <title>Papers and preprints</title>
       <link>https://SjoerdVBeentjes.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
@@ -32,12 +32,22 @@ My research is in algebraic geometry, in particular applications of the theory o
     </item>
     
     <item>
-      <title>Talks</title>
+      <title>Selected talks</title>
       <link>https://SjoerdVBeentjes.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SjoerdVBeentjes.github.io/home/talks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Co-authors</title>
+      <link>https://SjoerdVBeentjes.github.io/home/collaborators/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/collaborators/</guid>
+      <description>Mathematics: John Calabrese, Francesca Carocci, Ben Davison, Jørgen Vold Rennemo, Andrea Ricolfi
+Biomedical Sciences: Ava Khamseh, Chris Ponting, Martin Taylor</description>
     </item>
     
     <item>

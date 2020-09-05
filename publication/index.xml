@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Sjoerd Beentjes</title>
+    <title>Publications on Sjoerd Viktor Beentjes</title>
     <link>https://SjoerdVBeentjes.github.io/publication/</link>
-    <description>Recent content in Publications on Sjoerd Beentjes</description>
+    <description>Recent content in Publications on Sjoerd Viktor Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2020 Sjoerd Beentjes</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://SjoerdVBeentjes.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pervasive lesion segregation shapes cancer genome evolution</title>
+      <link>https://SjoerdVBeentjes.github.io/publication/lesionsegregation/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/publication/lesionsegregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-order interactions in statistical physics and machine learning: A non-parametric solution to the inverse problem</title>
+      <link>https://SjoerdVBeentjes.github.io/publication/interactions/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/publication/interactions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Virtual counts on Quot schemes and the higher rank local DT/PT correspondence</title>

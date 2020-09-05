@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Sjoerd Beentjes</title>
+    <title>Recent &amp; Upcoming Talks on Sjoerd Viktor Beentjes</title>
     <link>https://SjoerdVBeentjes.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Sjoerd Beentjes</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Sjoerd Viktor Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2020 Sjoerd Beentjes</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://SjoerdVBeentjes.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Purity and $CY_2$ categories</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkbonncy2/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkbonncy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkrims/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkrims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkimpu/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkimpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkbonncrc/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkbonncrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talkimperial/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talkimperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof of the Donaldson-Thomas crepant resolution conjecture</title>
+      <link>https://SjoerdVBeentjes.github.io/talk/talknorway/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/talk/talknorway/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The crepant resolution conjecture for Donaldson-Thomas invariants</title>
@@ -18,24 +72,6 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://SjoerdVBeentjes.github.io/talk/talkoxford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crepant resolutions &amp; Donaldson-Thomas invariants</title>
-      <link>https://SjoerdVBeentjes.github.io/talk/talktehran/</link>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SjoerdVBeentjes.github.io/talk/talktehran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crepant resolutions &amp; Donaldson-Thomas invariants</title>
-      <link>https://SjoerdVBeentjes.github.io/talk/talkcardiff/</link>
-      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SjoerdVBeentjes.github.io/talk/talkcardiff/</guid>
       <description></description>
     </item>
     

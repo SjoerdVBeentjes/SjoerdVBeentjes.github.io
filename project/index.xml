@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sjoerd Beentjes</title>
+    <title>Projects on Sjoerd Viktor Beentjes</title>
     <link>https://SjoerdVBeentjes.github.io/project/</link>
-    <description>Recent content in Projects on Sjoerd Beentjes</description>
+    <description>Recent content in Projects on Sjoerd Viktor Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Sjoerd Beentjes</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2020 Sjoerd Beentjes</copyright>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SjoerdVBeentjes.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Crepant resolution conjecture for Donaldson-Thomas invariants</title>
-      <link>https://SjoerdVBeentjes.github.io/project/crc/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Pervasive lesion segregation shapes cancer genome evolution</title>
+      <link>https://SjoerdVBeentjes.github.io/project/lesionsegregation/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/project/crc/</guid>
-      <description>&lt;p&gt;The crepant resolution conjecture for Donaldson-Thomas invariants is a statement about the enumerative geometry of two related geometries. It relates the Donaldson-Thomas generating series of a certain type of threedimensional Calabi-Yau orbifold $\mathcal{X}$ to that of a particular crepant resolution $Y$ of its coarse moduli space $X$.&lt;/p&gt;
-
-&lt;p&gt;Here is a nice &lt;a href=&#34;https://SjoerdVBeentjes.github.io/files/PosterBrAG.pdf&#34;/&gt;poster&lt;/a&gt;
- I made about this conjecture for the British Algebraic Geometry (BrAG) conference held in Cambridge, from 11 to 13 September 2017. It contains two results:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The example shows that analytic continuation of the generating series is required for the conjecture to hold. This seems to be a new phenomenon in the DT-world.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;I have proven a nice formula in a motivic Hall algebra relating the Hilbert scheme of curves on the resolution to the Hilbert scheme of curves on the orbifold.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;At the moment, &lt;a href=&#34;https://folk.uio.no/jorgeren/&#34; target=&#34;_blank&#34;&gt;Jørgen Rennemo&lt;/a&gt;, &lt;a href=&#34;http://math.rice.edu/~jrc9/&#34; target=&#34;_blank&#34;&gt;John Calabrese&lt;/a&gt; and I have joined forces to complete the proof of the conjecture. It turns out the underlying statement is an equality of rational functions, after a change of variables. The conjecture follows by expanding this rational function about different points. This requires some clever use of wallcrossing in the Hall algebra.&lt;/p&gt;
-</description>
+      <guid>https://SjoerdVBeentjes.github.io/project/lesionsegregation/</guid>
+      <description></description>
     </item>
     
   </channel>
