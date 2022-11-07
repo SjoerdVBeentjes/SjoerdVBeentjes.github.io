@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Sjoerd Viktor Beentjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2022 Sjoerd Beentjes</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://SjoerdVBeentjes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -19,8 +19,8 @@
       
       <guid>https://SjoerdVBeentjes.github.io/home/about/</guid>
       <description>About me Welcome to my homepage! I am a mathematican based in Edinburgh, UK.
-I am a Chancellor&amp;rsquo;s Fellow in the School of Mathematics at the University of Edinburgh. I am affiliated with the MRC Human Genetics Unit, Institute of Genetics and Cancer.
-I am interested in applications of pure mathematics and mathematical statistics, such as Topological Data Analysis and Targeted Learning, to causal questions in population biomedicine and public health policy.</description>
+I am a Chancellor&amp;rsquo;s Fellow in the School of Mathematics at the University of Edinburgh. I am affiliated with the MRC Human Genetics Unit, Institute of Genetics and Cancer. My group page can be found here.
+We are interested in applications of mathematical statistics to causal questions arising in population biomedicine, drug discovery and public health policy.</description>
     </item>
     
     <item>
@@ -33,23 +33,14 @@ I am interested in applications of pure mathematics and mathematical statistics,
     </item>
     
     <item>
-      <title>Selected talks</title>
-      <link>https://SjoerdVBeentjes.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SjoerdVBeentjes.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-authors</title>
+      <title>Collaborators</title>
       <link>https://SjoerdVBeentjes.github.io/home/collaborators/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SjoerdVBeentjes.github.io/home/collaborators/</guid>
-      <description>Algebraic Geometry: Arend Bayer, John Calabrese, Francesca Carocci, Ben Davison, Jørgen Vold Rennemo, Andrea Ricolfi
-Biomedical Sciences: Wendy Bickmore, Neil Carragher, Ava Khamseh, Chris Ponting, Karin Purshouse, Martin Taylor, Ian Tomlinson
-Mathematical Statistics: Mark van der Laan</description>
+      <description>Mathematical Statistics: Mark van der Laan
+Biomedical Sciences: Wendy Bickmore, Andrew Bretherick, Neil Carragher, Ava Khamseh, Chris Ponting, Karin Purshouse, Martin Taylor
+Algebraic Geometry: Arend Bayer, John Calabrese, Francesca Carocci, Ben Davison, Jørgen Vold Rennemo, Andrea Ricolfi</description>
     </item>
     
     <item>
@@ -59,8 +50,11 @@ Mathematical Statistics: Mark van der Laan</description>
       
       <guid>https://SjoerdVBeentjes.github.io/home/students/</guid>
       <description>PhD
-Olivier Labayle Pabet (2021, Biomedical AI at SoI)
-Kelsey Tetley-Campbell (2021, MRC Human Genetics Unit)
+Olivier Labayle Pabet (2021, CDT in Biomedical AI, School of Informatics)
+Kelsey Tetley-Campbell (2021, MRC Human Genetics Unit, IGC)
+Jesko Wagner (2022, MRC Human Genetics Unit, IGC)
+Breeshey Roskams-Hieter (2022, Health Data Research UK)
+Chris Oldnall (2022, MAC-MIGS, School of Mathematics)
 MSc
 Yue Zhang (Spring 2021, SoI): Topological Data Analysis</description>
     </item>
@@ -71,10 +65,19 @@ Yue Zhang (Spring 2021, SoI): Topological Data Analysis</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SjoerdVBeentjes.github.io/home/teaching/</guid>
-      <description>2021-2022: Coordinated and ran tutorials for Biomedical Data Science
+      <description>2022-2023: Course organiser and lecturer for Targeted Causal Learning. This course will run for the first time in Semester 2 of this academic year.
+2021-2022: Coordinated and ran tutorials for Biomedical Data Science
 2020-2021: Lecturer for SMSTC Manifolds (first half, Edinburgh)
-2014-2018: Teaching assistant (University of Edinburgh). This is a more supportive role, and I have TA&amp;rsquo;d for courses such as Calculus, Introduction to Linear Algebra, Commutative Algebra, and Algebraic Geometry.
-2012-2014: Teaching assistant (University of Amsterdam) for various courses such as Calculus, Linear Algebra, Topology, Analysis on Manifolds, and Statistical Physics, involving some blackboard teaching and occasionally creating exercises.</description>
+2014-2018: Teaching assistant (University of Edinburgh). This is a more supportive role, and I have TA&amp;rsquo;d for courses such as Calculus, Introduction to Linear Algebra, Commutative Algebra, and Algebraic Geometry.</description>
+    </item>
+    
+    <item>
+      <title>Selected talks</title>
+      <link>https://SjoerdVBeentjes.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SjoerdVBeentjes.github.io/home/talks/</guid>
+      <description></description>
     </item>
     
     <item>
